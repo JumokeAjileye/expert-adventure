@@ -1,0 +1,13 @@
+
+.grid-container {
+    display: grid;
+    background-color: #C2272D;
+}
+.grid-item {
+    padding: 20px;
+    background-color: #4AA2D9;
+    color: #FFFFFF;
+    border: 2px solid #000000;
+    font-size: 30px;
+    font-weight: bold;
+}
